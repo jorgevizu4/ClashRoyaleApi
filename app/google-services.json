@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277981012146",
+    "project_id": "appclashroyaleapi",
+    "storage_bucket": "appclashroyaleapi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277981012146:android:47b4a6b83ba7678ad769ab",
+        "android_client_info": {
+          "package_name": "com.vizu.clashroyaleapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2GC-DHhYUbkY2rQQTeVtp4pKxPDD2hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
