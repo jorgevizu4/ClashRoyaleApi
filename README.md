@@ -20,8 +20,8 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 1. Clonar el repositorio desde Bash GIT:
    git clone https://github.com/jorgevizu4/ClashRoyaleApi.git
 2. Compilar y Ejecutar:
-   Abre el proyecto en Android Studio Jellyfish o superior.
-   Sincroniza Gradle y ejecuta en un emulador o dispositivo físico.
+   - Abre el proyecto en Android Studio Jellyfish o superior.
+   - Sincroniza Gradle y ejecuta en un emulador o dispositivo físico.
 
 🏗️ Arquitectura
 - El proyecto sigue la arquitectura recomendada por Google para Android:
